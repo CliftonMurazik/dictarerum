@@ -1,0 +1,26 @@
+{
+  "name": "dictarerum",
+  "version": "1.0.0",
+  "description": "Saves BTC-<token_name> and ETH-<token_name> data from bittrex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliftonMurazik/dictarerum.git"
+  },
+  "dependencies": {
+    "bittrex-market": "latest"
+  },
+  "keywords": [
+    "bittrex",
+    "harum",
+    "et"
+  ],
+  "author": "MyraWehner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CliftonMurazik/dictarerum.git/issues"
+  }
+}
